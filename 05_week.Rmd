@@ -1,0 +1,31 @@
+# 5 Debugging and Testing in R
+
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/05_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/05_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/05_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/05_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/05_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/05_week.html">Tutorial Exercise (html)</a>
+---
+
+Finding and eliminating errors in code is one of (if not the most) frustrating part of computer
+programming. This week we will focus on how to debug and test an R program. We will start
+with the usage of print() statement to analyse the state of function calls and loops. After-
+wards, we will discuss more structured ways of error-catching and debugging using built-in
+R debugger.
+
+## Required Readings
+
+- Wickham Ch [9: Debugging & Exceptions](http://adv-r.had.co.nz/Exceptions-Debugging.html);
+- Peng Ch 20: Debugging;
+
+## Additional Readings
+
+- Matloff Ch 13: Debugging;
+
+## Tutorial
+
+- Using debugger and testing in R

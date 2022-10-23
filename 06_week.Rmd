@@ -1,0 +1,37 @@
+# 6 Data Wrangling in R
+
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/06_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/06_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/06_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/06_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/06_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/06_week.html">Tutorial Exercise (html)</a>
+<br>
+<br>
+<a class="btn btn-danger btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/assignments/02_assignment.ipynb">Assignment</a>
+</div>
+---
+
+Working with data is at the centre of programming in R. In addition to core functionality of base R, many new packages, such as `tidyverse` collection provide advanced data manipulation facilities and enhanced experience of working with tabular data. In this week we will focus on data frame and its tidyverse cousin tibble. We will also discuss formats of data storage and functions for data I/O and descriptive analysis.
+
+## Required Readings
+
+- Wickham & Grolemund. Chapters [7: Tibbles](https://r4ds.had.co.nz/tibbles.html), [8: Data Import](https://r4ds.had.co.nz/data-import.html), [9: Tidy Data](https://r4ds.had.co.nz/tidy-data.html);
+
+## Additional Readings
+
+- Peng Chs 13: Managing Data Frames, 18: Loop Functions;
+
+## Tutorial
+
+- Data input and output
+- Working with data in base R and tidyverse
+
+## Assignment 2
+
+- R functions and data wrangling
+- Due at 12:00 on Monday, 24th October (submission on Blackboard)
+- Rename the file from `02_assignment.ipynb` to `02_assignment_lastname_firstname_studentnumber.ipynb` before submission
