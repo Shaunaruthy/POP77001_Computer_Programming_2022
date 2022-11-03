@@ -13,7 +13,7 @@ This module provides foundational knowledge of computer programming concepts and
 
 ## Instructors {-}
 
-- [Tom Paskhalis](mailto:tom.paskhalis@tcd.ie), *Office Hours*: Thursday 11:00-13:00  [online](https://outlook.office365.com/owa/calendar/TomPaskhalis@TCDUD.onmicrosoft.com/bookings/)
+- [Tom Paskhalis](mailto:tom.paskhalis@tcd.ie), *Office Hours*: Thursday 11:00-13:00  [in-person or online](https://outlook.office365.com/owa/calendar/TomPaskhalis@TCDUD.onmicrosoft.com/bookings/) (booking required)
 - [Martyn Egan](mailto:eganm9@tcd.ie)
 
 ## Module Meetings {-}
@@ -24,20 +24,20 @@ This module provides foundational knowledge of computer programming concepts and
     - Thursday 09:00 in PX 201 [7-9 Leinster Street South](https://www.tcd.ie/Maps/map.php?b=255)
 - No lecture/tutorial in Week 7
 
-| Week|Lecture (Monday) |Language  |Topic                                 |Due (Friday) |
-|----:|:----------------|:---------|:-------------------------------------|:------------|
-|    1|12 September     |-         |Introduction to Computation           |             |
-|    2|19 September     |R         |R Basics                              |             |
-|    3|26 September     |R         |Control Flow in R                     |Assignment 1 |
-|    4|3 October        |R         |Functions in R                        |             |
-|    5|10 October       |R         |Debugging and Testing in R            |Assignment 2 |
-|    6|17 October       |R         |Data Wrangling in R                   |             |
-|    7|24 October       |-         |-                                     |             |
-|    8|31 October       |Python    |Fundamentals of Python Programming I  |             |
-|    9|7 November       |Python    |Fundamentals of Python Programming II |Assignment 3 |
-|   10|14 November      |Python    |Data Wrangling in Python              |             |
-|   11|21 November      |Python, R |Complexity and Performance            |Assignment 4 |
-|   12|28 November      |Python, R |Web Scraping                          |             |
+|   Week | Date         | Language   | Topic                                   | Due          |
+|-------:|:-------------|:-----------|:----------------------------------------|:-------------|
+|      1 | 12 September | -          | Introduction to Computation             |              |
+|      2 | 19 September | R          | R Basics                                |              |
+|      3 | 26 September | R          | Control Flow in R                       |              |
+|      4 | 3 October    | R          | Functions in R                          | Assignment 1 |
+|      5 | 10 October   | R          | Debugging and Testing in R              |              |
+|      6 | 17 October   | R          | Data Wrangling in R                     |              |
+|      7 | 24 October   | -          | -                                       | Assignment 2 |
+|      8 | 31 October   | Python     | Fundamentals of Python Programming I    |              |
+|      9 | 7 November   | Python     | Fundamentals of Python Programming II   |              |
+|     10 | 14 November  | Python     | Data Wrangling in Python                | Assignment 3 |
+|     11 | 21 November  | Python     | Classes and Object-oriented Programming |              |
+|     12 | 28 November  | Python, R  | Complexity and Performance              | Assignment 4 |
 
 ## Prerequisites {-}
 
@@ -116,10 +116,12 @@ Marks at Trinity: [https://www.tcd.ie/academicregistry/exams/student-guide/](htt
 
 ## Plagiarism {-}
 
-- Plagiarising computer code is as serious as plagiarising text (see [Google LLC v. Oracle America, Inc.](https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America%2C_Inc.))
-- All submitted programming assignments and final project should be done individually
-- You may discuss general approaches to solutions with your peers
-- But do not share or view each others code
-- You can use online resources but give credit in the comments
+- Plagiarising computer code is as serious as plagiarising text (see [Google LLC v. Oracle America, Inc.](https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America%2C_Inc.)).
+- All submitted programming assignments and final project should be done individually.
+- You may discuss general approaches to solutions with your peers.
+- But do not share or view each others code.
+- You can use online resources but give credit in the comments.
 
-Check the Trinity's [guide on the levels and consequences of plagiarism](https://libguides.tcd.ie/plagiarism/levels-and-consequences)
+Watch [this video](https://www.youtube.com/watch?v=kNr69r0BBaw) explaining the difference between collaboration and collusion.
+
+Check the Trinity's [guide on the levels and consequences of plagiarism](https://libguides.tcd.ie/plagiarism/levels-and-consequences).

@@ -1,0 +1,19 @@
+# 10 Data Wrangling in Python
+
+---
+
+This week we will turn from broader programming and software engineering concepts to practical approaches of working with data in Python. In particular, we will focus on `pandas`, a versatile library for data analysis, which often serves as the first building block in many data-science pipelines.
+
+## Required Readings
+
+- McKinney Chs 5: Getting Started with Pandas, 6: Data Loading, Storage and File Formats, 7: Data Cleaning and Preparation, 8: Data Wrangling: Join, Combine and Reshape;
+
+## Additional Readings
+
+- Guttag Ch 23: Exploring Data with Pandas;
+- McKinney Ch 9: Plotting and Visualization;
+
+## Tutorial
+
+- Data input and output
+- Working with pandas library

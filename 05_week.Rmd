@@ -9,6 +9,7 @@
 <a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/05_week.ipynb">Tutorial Exercise (ipynb)</a>
 <a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/05_week.pdf">Tutorial Exercise (pdf)</a>
 <a class="btn btn-secondary btn-lg" role="button" href="tutorials/05_week.html">Tutorial Exercise (html)</a>
+</div>
 ---
 
 Finding and eliminating errors in code is one of (if not the most) frustrating part of computer

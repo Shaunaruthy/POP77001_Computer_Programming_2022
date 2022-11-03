@@ -1,0 +1,28 @@
+# 8 Fundamentals of Python Programming I
+
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/08_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/08_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/08_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/08_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/08_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/08_week.html">Tutorial Exercise (html)</a>
+</div>
+---
+
+This week we start learning about Python, another major language for data analysis. In the first lecture we will look at core Python object types, operators, methods and functions. Some of Python fundamentals will be compared and contrasted to their counterparts in R.
+
+## Required Readings
+
+- Guttag Chs 2: Introduction to Python, 5: Structured Types and Mutability;
+
+## Additional Readings
+
+- Guttag Ch 3: Some Simple Numerical Programs;
+
+## Tutorial
+
+- Python object types and casting
+- Application of methods and functions

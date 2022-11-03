@@ -1,0 +1,37 @@
+# 9 Fundamentals of Python Programming II
+
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/09_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/09_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/09_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/09_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/09_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/09_week.html">Tutorial Exercise (html)</a>
+<br>
+<br>
+<a class="btn btn-danger btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/assignments/03_assignment.ipynb">Assignment</a>
+</div>
+---
+
+As in other programming languages, functions are crucial for building modular programs. In this week we look at control flow mechanisms and discuss function defition and invocation in Python.
+
+## Required Readings
+
+- Guttag Chs 4: Functions, Scoping and Abstraction, 6: Recursion and Global Variables;
+
+## Additional Readings
+
+- Guttag Chs 7: Modules and Files, 8: Testing and Debugging, 9: Exceptions and Assertions;
+
+## Tutorial
+
+- List and dictionary comprehensions
+- Working with functions in Python
+
+## Assignment 3
+
+- Python fundamentals and control flow
+- Due at 12:00 on Monday, 14th November (submission on Blackboard)
+- Rename the file from `03_assignment.ipynb` to `03_assignment_lastname_firstname_studentnumber.ipynb` before submission
