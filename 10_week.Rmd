@@ -6,12 +6,12 @@ This week we will turn from broader programming and software engineering concept
 
 ## Required Readings
 
-- McKinney Chs 5: Getting Started with Pandas, 6: Data Loading, Storage and File Formats, 7: Data Cleaning and Preparation, 8: Data Wrangling: Join, Combine and Reshape;
+- McKinney Chs 4: [NumPy Basics](https://wesmckinney.com/book/numpy-basics.html), [5: Getting Started with Pandas](https://wesmckinney.com/book/pandas-basics.html), [6: Data Loading, Storage and File Formats](https://wesmckinney.com/book/accessing-data.html), [7: Data Cleaning and Preparation](https://wesmckinney.com/book/plotting-and-visualization.html), [8: Data Wrangling: Join, Combine and Reshape](https://wesmckinney.com/book/data-wrangling.html);
 
 ## Additional Readings
 
 - Guttag Ch 23: Exploring Data with Pandas;
-- McKinney Ch 9: Plotting and Visualization;
+- McKinney Ch [9: Plotting and Visualization](https://wesmckinney.com/book/plotting-and-visualization.html);
 
 ## Tutorial
 

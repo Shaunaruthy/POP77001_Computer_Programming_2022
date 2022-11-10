@@ -15,7 +15,7 @@
 </div>
 ---
 
-As in other programming languages, functions are crucial for building modular programs. In this week we look at control flow mechanisms and discuss function defition and invocation in Python.
+As in other programming languages, functions are crucial for building modular programs. In this week we look at control flow mechanisms and discuss function definition and invocation in Python.
 
 ## Required Readings
 

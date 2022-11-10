@@ -1,0 +1,19 @@
+# 11 Classes and Object-oriented Programming
+
+---
+
+We saw how functions allow us to make our code more generalisable and abstract. But what if we wanted to bundle our code with the kinds of data it could operate on? Classes and object-oriented programming allow us to address this challenge.
+
+## Required Readings
+
+- Guttag Chs 10: Classes and Object-oriented Programming;
+
+## Additional Readings
+
+- Bjarne Stroustrup. 1991. What is "Object-Oriented Programming"? (1991 revised ver-
+sion). *Proceedings of the 1st European Software Festival, [https://stroustrup.com/whatis.pdf](https://stroustrup.com/whatis.pdf)
+- Wickham Ch [7: OO field guide](http://adv-r.had.co.nz/OO-essentials.html);
+
+## Tutorial
+
+- Creating classes and methods
