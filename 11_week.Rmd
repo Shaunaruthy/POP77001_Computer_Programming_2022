@@ -1,5 +1,18 @@
 # 11 Classes and Object-oriented Programming
 
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/11_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/11_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/11_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/11_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/11_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/11_week.html">Tutorial Exercise (html)</a>
+<br>
+<br>
+<a class="btn btn-danger btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/assignments/04_assignment.ipynb">Assignment</a>
+</div>
 ---
 
 We saw how functions allow us to make our code more generalisable and abstract. But what if we wanted to bundle our code with the kinds of data it could operate on? Classes and object-oriented programming allow us to address this challenge.
@@ -10,8 +23,7 @@ We saw how functions allow us to make our code more generalisable and abstract. 
 
 ## Additional Readings
 
-- Bjarne Stroustrup. 1991. What is "Object-Oriented Programming"? (1991 revised ver-
-sion). *Proceedings of the 1st European Software Festival, [https://stroustrup.com/whatis.pdf](https://stroustrup.com/whatis.pdf)
+- Bjarne Stroustrup. 1991. What is "Object-Oriented Programming"? (1991 revised version). *Proceedings of the 1st European Software Festival, [https://stroustrup.com/whatis.pdf](https://stroustrup.com/whatis.pdf)
 - Wickham Ch [7: OO field guide](http://adv-r.had.co.nz/OO-essentials.html);
 
 ## Tutorial
