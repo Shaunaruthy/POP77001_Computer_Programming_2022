@@ -13,10 +13,11 @@ bibliography: "bibliography.bib"
 
 <div id="buttons">
 <a class="btn btn-warning btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/syllabus/POP77001_Computer_Programming_for_Social_Scientists.pdf">Syllabus</a>
+<a class="btn btn-dark btn-lg" role="button" href="https://tcd.blackboard.com/webapps/blackboard/execute/launcher?type=Course&id=_80242_1&url=">Blackboard</a>
 </div>
 <br>
 
-This module provides foundational knowledge of computer programming concepts and software engineering practices. It introduces students to major data science programming languages and workflows, with a focus on social science data and research questions. Students will be introduced to R and Python, two principal data science programming languages. This course covers basic and intermediate programming concepts, such as object types, functions, control flow, testing and debugging. Particular emphasis will be made on data handling and analytical tasks with a focus on problems in social sciences. Homeworks will include hands-on coding exercises. In addition, students will apply their programming knowledge on a research project at the end of the module.
+This module provides foundational knowledge of computer programming concepts and software engineering practices. It introduces students to major programming languages and workflows for data analysis, with a focus on social science questions and statistical techniques. Students will become familiar with R and Python, two principal programming languages used in data science and research. This course covers basic and intermediate programming concepts, such as objects, types, functions, control flow, debugging in both procedural and object-oriented paradigms. Particular emphasis will be made on data handling and analytical tasks with a focus on problems in social sciences. Homeworks will include hands-on coding exercises. In addition, students will apply their programming knowledge on a research project at the end of the module.
 
 ## Instructors {-}
 
@@ -81,7 +82,7 @@ Jupyter*](https://wesmckinney.com/book/). 3rd ed. Sebastopol, CA: O'Reilly Media
 
 - Wickham, Hadley, and Garrett Grolemund. 2017. [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](http://r4ds.had.co.nz/). Sebastopol, CA: O'Reilly Media.
 
-- Wickham, Hadley. 2019. [*Advanced R*](http://adv-r.had.co.nz/). 2nd ed. Boca Raton, FL: Chapman and Hall/CRC.
+- Wickham, Hadley. 2019. [*Advanced R*](https://adv-r.hadley.nz). 2nd ed. Boca Raton, FL: Chapman and Hall/CRC.
 
 Additional online resources:
 
@@ -106,11 +107,11 @@ Additional online resources:
 
 - 4 assignments (40%)
     - Bi-weekly programming exercises
-    - Due by 23:59 on Friday of weeks 3, 5, 9 and 11 on Blackboard
+    - Due by 12:00 on Monday of weeks 4, 7, 10 and 12 on Blackboard
 
 - Research project (50%)
     - Final Python/R project demonstrating familiarity with programming concepts and ability to communicate results
-    - Due by 23:59 on Friday, 16 December 2022
+    - Due by 12:00 on Monday, 19 December 2022
     
 ## Assessment criteria {-}
 

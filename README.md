@@ -4,11 +4,11 @@
 
 ## About This Module
 
-This module provides foundational knowledge of computer programming concepts and software engineering practices. It introduces students to major data science programming languages and workflows, with a focus on social science data and research questions. Students will be introduced to R and Python, two principal data science programming languages. This course covers basic and intermediate programming concepts, such as object types, functions, control flow, testing and debugging. Particular emphasis will be made on data handling and analytical tasks with a focus on problems in social sciences. Homeworks will include hands-on coding exercises. In addition, students will apply their programming knowledge on a research project at the end of the module.
+This module provides foundational knowledge of computer programming concepts and software engineering practices. It introduces students to major programming languages and workflows for data analysis, with a focus on social science questions and statistical techniques. Students will become familiar with R and Python, two principal programming languages used in data science and research. This course covers basic and intermediate programming concepts, such as objects, types, functions, control flow, debugging in both procedural and object-oriented paradigms. Particular emphasis will be made on data handling and analytical tasks with a focus on problems in social sciences. Homeworks will include hands-on coding exercises. In addition, students will apply their programming knowledge on a research project at the end of the module.
 
 ## Instructors
 
-- [Tom Paskhalis](mailto:tom.paskhalis@tcd.ie), *Office Hours*: Thursday 11:00-13:00  [online](https://outlook.office365.com/owa/calendar/TomPaskhalis@TCDUD.onmicrosoft.com/bookings/)
+- [Tom Paskhalis](mailto:tom.paskhalis@tcd.ie), *Office Hours*: Thursday 11:00-13:00  [in-person or online](https://outlook.office365.com/owa/calendar/TomPaskhalis@TCDUD.onmicrosoft.com/bookings/) (booking required)
 - [Martyn Egan](mailto:eganm9@tcd.ie)
 
 ## Module Meetings
@@ -19,20 +19,20 @@ This module provides foundational knowledge of computer programming concepts and
     - Thursday 09:00 in PX 201 [7-9 Leinster Street South](https://www.tcd.ie/Maps/map.php?b=255)
 - No lecture/tutorial in Week 7
 
-| Week|Lecture (Monday) |Language  |Topic                                 |Due (Friday) |
-|----:|:----------------|:---------|:-------------------------------------|:------------|
-|    1|12 September     |-         |Introduction to Computation           |             |
-|    2|19 September     |R         |R Basics                              |             |
-|    3|26 September     |R         |Control Flow in R                     |Assignment 1 |
-|    4|3 October        |R         |Functions in R                        |             |
-|    5|10 October       |R         |Debugging and Testing in R            |Assignment 2 |
-|    6|17 October       |R         |Data Wrangling in R                   |             |
-|    7|24 October       |-         |-                                     |             |
-|    8|31 October       |Python    |Fundamentals of Python Programming I  |             |
-|    9|7 November       |Python    |Fundamentals of Python Programming II |Assignment 3 |
-|   10|14 November      |Python    |Data Wrangling in Python              |             |
-|   11|21 November      |Python, R |Complexity and Performance            |Assignment 4 |
-|   12|28 November      |Python, R |Web Scraping                          |             |
+|   Week | Date         | Language   | Topic                                   | Due          |
+|-------:|:-------------|:-----------|:----------------------------------------|:-------------|
+|      1 | 12 September | -          | Introduction to Computation             |              |
+|      2 | 19 September | R          | R Basics                                |              |
+|      3 | 26 September | R          | Control Flow in R                       |              |
+|      4 | 3 October    | R          | Functions in R                          | Assignment 1 |
+|      5 | 10 October   | R          | Debugging and Testing in R              |              |
+|      6 | 17 October   | R          | Data Wrangling in R                     |              |
+|      7 | 24 October   | -          | -                                       | Assignment 2 |
+|      8 | 31 October   | Python     | Fundamentals of Python Programming I    |              |
+|      9 | 7 November   | Python     | Fundamentals of Python Programming II   |              |
+|     10 | 14 November  | Python     | Data Wrangling in Python                | Assignment 3 |
+|     11 | 21 November  | Python     | Classes and Object-oriented Programming |              |
+|     12 | 28 November  | Python, R  | Complexity and Performance              | Assignment 4 |
 
 ## Prerequisites
 
@@ -67,13 +67,14 @@ Books:
 
 - Matloff, Norman. 2011. *The Art of R Programming: A Tour of Statistical Software Design*. San Francisco, CA: No Starch Press.
 
-- McKinney, Wes. 2017. *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*. 2nd ed. Sebastopol, CA: O'Reilly Media
+- McKinney, Wes. 2022. [*Python for Data Analysis: Data Wrangling with pandas, NumPy, and
+Jupyter*](https://wesmckinney.com/book/). 3rd ed. Sebastopol, CA: O'Reilly Media.
 
-- Peng, Roger D. 2016. [*R Programming for Data Science*](https://leanpub.com/rprogramming). Leanpub
+- Peng, Roger D. 2016. [*R Programming for Data Science*](https://leanpub.com/rprogramming). Leanpub.
 
 - Wickham, Hadley, and Garrett Grolemund. 2017. [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](http://r4ds.had.co.nz/). Sebastopol, CA: O'Reilly Media.
 
-- Wickham, Hadley. 2019. [*Advanced R*](http://adv-r.had.co.nz/). 2nd ed. Boca Raton, FL: Chapman and Hall/CRC.
+- Wickham, Hadley. 2019. [*Advanced R*](https://adv-r.hadley.nz). 2nd ed. Boca Raton, FL: Chapman and Hall/CRC.
 
 
 Online:
@@ -99,11 +100,11 @@ Online:
 
 - 4 assignments (40%)
     - Bi-weekly programming exercises
-    - Due by 23:59 on Friday of weeks 3, 5, 9 and 11 on Blackboard
+    - Due by 12:00 on Monday of weeks 4, 7, 10 and 12 on Blackboard
 
 - Research project (50%)
     - Final Python/R project demonstrating familiarity with programming concepts and ability to communicate results
-    - Due by 23:59 on Friday, 16 December 2022
+    - Due by 12:00 on Monday, 19 December 2022
     
 ## Assessment criteria
 
@@ -123,17 +124,6 @@ Marks at Trinity: [https://www.tcd.ie/academicregistry/exams/student-guide/](htt
 - But do not share or view each others code;
 - You can use online resources but give credit in the comments.
 
+Watch [this video](https://www.youtube.com/watch?v=kNr69r0BBaw) explaining the difference between collaboration and collusion.
+
 Check the Trinity's [guide on the levels and consequences of plagiarism](https://libguides.tcd.ie/plagiarism/levels-and-consequences)
-
----
-
-## License
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

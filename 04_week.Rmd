@@ -12,18 +12,17 @@
 </div>
 ---
 
-This week we will discuss functions, the main building block of a program implemented in
-any language.
+This week we will discuss functions, the main building block of a program implemented in any language.
 
 ## Required Readings
 
 - Peng Chs 15: Functions, 16: Scoping Rules;
-- Wickham Ch [6: Functions](http://adv-r.had.co.nz/Functions.html);
+- Wickham Chs [6: Functions](https://adv-r.hadley.nz/functions.html), [7: Environments](https://adv-r.hadley.nz/environments.html);
 
 ## Additional Readings
 
-- Wickham Chs [10: Functional Programming](http://adv-r.had.co.nz/Functional-programming.html), [11: Functionals](http://adv-r.had.co.nz/Functionals.html), [12: Function Operators](http://adv-r.had.co.nz/Function-operators.html);
+-Wickham Chs [9: Functionals](https://adv-r.hadley.nz/functionals.html), [10: Function Factories](https://adv-r.hadley.nz/function-factories.html), [11: Function Operators](https://adv-r.hadley.nz/function-operators.html).
 
 ## Tutorial
 
-- Implementing functions in R
+- Creating functions in R.

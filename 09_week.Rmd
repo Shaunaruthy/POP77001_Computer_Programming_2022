@@ -23,15 +23,15 @@ As in other programming languages, functions are crucial for building modular pr
 
 ## Additional Readings
 
-- Guttag Chs 7: Modules and Files, 8: Testing and Debugging, 9: Exceptions and Assertions;
+- Guttag Chs 7: Modules and Files, 8: Testing and Debugging, 9: Exceptions and Assertions.
 
 ## Tutorial
 
-- List and dictionary comprehensions
-- Working with functions in Python
+- List and dictionary comprehensions;
+- Working with functions in Python.
 
 ## Assignment 3
 
-- Python fundamentals and control flow
-- Due at 12:00 on Monday, 14th November (submission on Blackboard)
-- Rename the file from `03_assignment.ipynb` to `03_assignment_lastname_firstname_studentnumber.ipynb` before submission
+- Python fundamentals and control flow.
+- Due at 12:00 on Monday, 14th November (submission on Blackboard);
+- Rename the file from `03_assignment.ipynb` to `03_assignment_lastname_firstname_studentnumber.ipynb` before submission.

@@ -19,13 +19,13 @@ We saw how functions allow us to make our code more generalisable and abstract. 
 
 ## Required Readings
 
-- Guttag Chs 10: Classes and Object-oriented Programming;
+- Guttag Ch 10: Classes and Object-oriented Programming;
 
 ## Additional Readings
 
+- Wickham Chs [Object-oriented programming: Introduction](https://adv-r.hadley.nz/oo.html), [12: Base types](https://adv-r.hadley.nz/base-types.html), [13: S3](https://adv-r.hadley.nz/s3.html);
 - Bjarne Stroustrup. 1991. What is "Object-Oriented Programming"? (1991 revised version). *Proceedings of the 1st European Software Festival, [https://stroustrup.com/whatis.pdf](https://stroustrup.com/whatis.pdf)
-- Wickham Ch [7: OO field guide](http://adv-r.had.co.nz/OO-essentials.html);
 
 ## Tutorial
 
-- Creating classes and methods
+- Working with classes and methods.

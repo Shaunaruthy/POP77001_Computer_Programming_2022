@@ -20,9 +20,9 @@ This week we start learning about Python, another major language for data analys
 
 ## Additional Readings
 
-- Guttag Ch 3: Some Simple Numerical Programs;
+- Guttag Ch 3: Some Simple Numerical Programs.
 
 ## Tutorial
 
-- Python object types and casting
-- Application of methods and functions
+- Python object types and casting;
+- Application of methods and functions.

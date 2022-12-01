@@ -15,25 +15,24 @@
 </div>
 ---
 
-This week we will focus on the key ways of controlling the flow of programs in R. We will
-look at branching and loops, common for all programming languages and the details of their
-design in R.
+This week we will focus on the key ways of controlling the flow of programs in R. We will look at branching and loops, common for all programming languages and the details of their design in R.
 
 ## Required Readings
 
 - Peng Ch 14: Control Structures;
+- Wickham Ch [5: Control Flow](https://adv-r.hadley.nz/control-flow.html);
 
 ## Additional Readings
 
-- Matloff Ch 7: R Programming Structures;
+- Matloff Ch 7: R Programming Structures.
 
 ## Tutorial
 
-- Conditional statements and iterations
-- Working with functions in R
+- Conditional statements and iterations;
+- Working with functions in R.
 
 ## Assignment 1
 
-- R Basics and control flow
-- Due at 23:59 on Friday, 30th September (submission on Blackboard)
-- Rename the file from `01_assignment.ipynb` to `01_assignment_lastname_firstname_studentnumber.ipynb` before submission
+- R Basics and control flow.
+- Due at 23:59 on Friday, 30th September (submission on Blackboard);
+- Rename the file from `01_assignment.ipynb` to `01_assignment_lastname_firstname_studentnumber.ipynb` before submission.

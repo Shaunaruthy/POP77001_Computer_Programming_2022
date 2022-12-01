@@ -12,21 +12,18 @@
 </div>
 ---
 
-Finding and eliminating errors in code is one of (if not the most) frustrating part of computer
-programming. This week we will focus on how to debug and test an R program. We will start
-with the usage of print() statement to analyse the state of function calls and loops. After-
-wards, we will discuss more structured ways of error-catching and debugging using built-in
-R debugger.
+Finding and eliminating errors in code is one of (if not the most) frustrating part of computer programming. This week we will focus on how to debug and test an R program. We will start with the usage of `print()` statement to analyse the state of function calls and loops. Afterwards, we will discuss more structured ways of error-catching and debugging with the help of built-in R debugger.
 
 ## Required Readings
 
 - Wickham Ch [9: Debugging & Exceptions](http://adv-r.had.co.nz/Exceptions-Debugging.html);
+- Wickham Chs [8: Conditions](https://adv-r.hadley.nz/conditions.html), [22: Debugging](https://adv-r.hadley.nz/debugging.html);
 - Peng Ch 20: Debugging;
 
 ## Additional Readings
 
-- Matloff Ch 13: Debugging;
+- Matloff Ch 13: Debugging.
 
 ## Tutorial
 
-- Using debugger and testing in R
+- Using debugger and testing in R.

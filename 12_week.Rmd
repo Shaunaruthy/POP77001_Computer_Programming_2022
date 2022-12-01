@@ -1,5 +1,18 @@
 # 12 Complexity and Performance
 
+<div id="buttons">
+<a class="btn btn-primary btn-lg" role="button" href="lectures/12_week.html">Lecture Slides (html)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/12_week.pdf">Lecture Slides (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/lectures/12_week.ipynb">Lecture Slides (ipynb)</a>
+<br>
+<br>
+<a class="btn btn-success btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/12_week.ipynb">Tutorial Exercise (ipynb)</a>
+<a class="btn btn-info btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/tutorials/12_week.pdf">Tutorial Exercise (pdf)</a>
+<a class="btn btn-secondary btn-lg" role="button" href="tutorials/12_week.html">Tutorial Exercise (html)</a>
+<br>
+<br>
+<a class="btn btn-danger btn-lg" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2022/blob/main/assignments/final_project.ipynb">Final Project</a>
+</div>
 ---
 
 Getting the correct result and having well-structured and documented code are only two aspects of a good program. We also want our code to execute fast and, in some cases, for it to finish running in a moment, hour, day, year, lifetime... This week we more formally discuss algorithmic complexity and performance. In addition to theoretical considerations we look into measuring execution time and benchmarking specific operations. 
@@ -11,8 +24,8 @@ Algorithms and Data Structures;
 
 ## Additional Readings
 
-- Wickham Ch [16: Performance](http://adv-r.had.co.nz/Performance.html), [17: Optimising Code](http://adv-r.had.co.nz/Profiling.html);
+- Wickham Chs [23: Measuring Performance](https://adv-r.hadley.nz/perf-measure.html), [24: Improving performance](https://adv-r.hadley.nz/perf-improve.html).
 
 ## Tutorial
 
-- Benchmarking and measuring performance
+- Benchmarking and measuring performance.

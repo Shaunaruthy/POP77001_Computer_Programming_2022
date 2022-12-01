@@ -21,9 +21,9 @@ This week we will turn from broader programming and software engineering concept
 ## Additional Readings
 
 - Guttag Ch 23: Exploring Data with Pandas;
-- McKinney Ch [9: Plotting and Visualization](https://wesmckinney.com/book/plotting-and-visualization.html);
+- Charles R. Harris et al. 2020. Array programming with NumPy. *Nature* 585 (7825): 357-362. [https://doi.org/10.1038/s41586-020-2649-2](https://doi.org/10.1038/s41586-020-2649-2)
 
 ## Tutorial
 
-- Data input and output
-- Working with pandas library
+- Data input and output;
+- Working with pandas library.

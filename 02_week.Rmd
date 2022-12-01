@@ -12,21 +12,19 @@
 </div>
 ---
 
-This week we will discuss the fundamental concepts of programming, such as variables, as-
-signment and object types with application to R. In addition, we will start using some built-in
-functions.
+This week we will discuss the fundamental concepts of programming, such as variables, assignment and object types with application to R. In addition, we will start using some built-in functions.
 
 ## Required Readings
 
-- Wickham. Chapters [2: Data Structures](http://adv-r.had.co.nz/Data-structures.html), [3: Subsetting](http://adv-r.had.co.nz/Subsetting.html), [4: Vocabulary](http://adv-r.had.co.nz/Vocabulary.html);
+- Wickham Chs [2: Names and Values](https://adv-r.hadley.nz/names-values.html), [3: Vectors](https://adv-r.hadley.nz/vectors-chap.html), [4: Subsetting](https://adv-r.hadley.nz/subsetting.html);
 - Peng Chs 5: R Nuts and Bolts, 10: Subsetting R Objects, 11: Vectorized Operations;
 
 ## Additional Readings
 
-- Matloff. Chs 2: Vectors, 3: Matrices & Arrays, 4: Lists, 5: Data Frames, 6: Factors & Tables;
+- Matloff. Chs 2: Vectors, 3: Matrices & Arrays, 4: Lists, 5: Data Frames, 6: Factors & Tables.
 
 ## Tutorial
 
-- R core data structures
-- Subsetting and working with attributes
-- Application of methods and functions
+- R core data structures.
+- Subsetting and working with attributes.
+- Using functions.
